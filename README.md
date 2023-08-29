@@ -3,6 +3,7 @@
 [![Gitlab Badge](https://img.shields.io/badge/-celestix-FC6D26?style=flat&logo=GitLab&logoColor=white&link=https://gitlab.com/celestix/)](https://gitlab.com/celestix/)
 [![Telegram Badge](https://img.shields.io/badge/-@CaptainPicard-0088cc?style=flat&logo=telegram&logoColor=white&link=https://telegram.me/captainpicard/)](https://telegram.me/captainpicard/)
 [![Medium Badge](https://img.shields.io/badge/-@celestix-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@celestix)](https://medium.com/@celestix)
+[![Linkedin Badge](https://img.shields.io/badge/-celestix-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celestix/)](https://www.linkedin.com/in/celestix/)
 [![Mail Badge](https://img.shields.io/badge/-i@anodite.co-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:i@anodite.co)](mailto:i@anodite.co)
 [![Twitter Badge](https://img.shields.io/badge/-@TheVeerRana-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TheVeerRana)](https://twitter.com/TheVeerRana)
 [![Instagram Badge](https://img.shields.io/badge/-@anonyindian-d10000?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/anonyindian/)](https://instagram.com/anonyindian)

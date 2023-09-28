@@ -63,5 +63,6 @@ Welcome to my profile! I'm a student, a passionate explorer of technologies and 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=Celestix&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&layout=compact&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celestix&langs_count=10&layout=compact&theme=radical)
 
-
+## 🦖 Holopins
+[![An image of @celestix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anonyindian)](https://holopin.io/@anonyindian)
 

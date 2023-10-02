@@ -60,7 +60,7 @@ Welcome to my profile! I'm a student, a passionate explorer of technologies and 
 ![Poetry](https://img.shields.io/static/v1?style=for-the-badge&message=Poetry&color=60A5FA&logo=Poetry&logoColor=FFFFFF&label=)
 
 ## 📊 Stats
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=Celestix&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&layout=compact&theme=radical)
+![My Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Celestix&theme=dark&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celestix&langs_count=10&layout=compact&theme=radical)
 
 ## 🦖 Holopins

@@ -64,5 +64,5 @@ Welcome to my profile! I'm a student, a passionate explorer of technologies and 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celestix&langs_count=10&layout=compact&theme=radical)
 
 ## 🦖 Holopins
-[![An image of @celestix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anonyindian)](https://holopin.io/@anonyindian)
+[![An image of @celestix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/celestix)](https://holopin.io/@celestix)
 

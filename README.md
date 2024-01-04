@@ -13,7 +13,6 @@ Welcome to my profile! I'm a student, a passionate explorer of technologies and 
 ## Currently working on:
 - Warpdl: [github.com/warpdl](https://github.com/warpdl)
 - Srink: [github.com/srinco/srink](https://github.com/srinkco/srink)
-- Bifrost: (Revealing soon)
 
 ## 🛠️  Tools I use
 
@@ -26,6 +25,7 @@ Welcome to my profile! I'm a student, a passionate explorer of technologies and 
 ![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
 ![Rust](https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label=)
 ![Dart](https://img.shields.io/static/v1?style=for-the-badge&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=0175C2&logo=JavaScript&logoColor=FFFFFF&label=)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
